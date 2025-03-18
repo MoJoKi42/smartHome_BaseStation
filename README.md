@@ -4,4 +4,4 @@ This Smart Home base station is built around an **ESP32** as the controller and 
 
 ![alt text](img1.jpg "img1")
 ![alt text](img2.jpg "img2")
-![alt text](img_pcb.jpg "img_pcb")
+![alt text](img_pcb.png "img_pcb")
